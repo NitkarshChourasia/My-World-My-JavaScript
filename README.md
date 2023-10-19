@@ -78,8 +78,6 @@ This repository is created by NitkarshChourasia , a passionate JavaScript develo
 
 If you like this repository, please give it a star ⭐ and share it with others. If you have any feedback, suggestions, or questions, feel free to open an issue or contact me. I would love to hear from you. 😊
 
-I can help you create a How to Contribute section for your JavaScript repository. A How to Contribute section is a part of the README file that gives instructions and guidelines for potential contributors who want to improve or add features to your project. Here is a sample How to Contribute section that you can use or modify for your repository:
-
 ## How to Contribute 🙌
 
 We welcome and appreciate any contributions to this repository. Whether you want to fix a bug, improve the documentation, or add a new feature, you can follow these steps to make your contribution:
